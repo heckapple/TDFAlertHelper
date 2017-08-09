@@ -1,0 +1,6 @@
+framework module TDFAlertHelper {
+  umbrella header "TDFAlertHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
